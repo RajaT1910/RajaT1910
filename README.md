@@ -9,7 +9,7 @@ I build production-quality pipelines and models, mostly in Python. Current focus
 ## What I'm Working On
 
 - **Revenue Forecasting** (Carlson Analytics Lab, Major Consumer Electronics Retailer): SARIMAX + Prophet framework incorporating 60+ macroeconomic indicators from FRED. Walk-forward validation, greedy feature selection, 18% MAPE reduction over baseline.
-- **[Serendipia](https://github.com/RajaT1910/Serendipia)**: Agentic RAG pipeline for drug repurposing. Semantic search over 1.1M FDA adverse event records, K-Means + DBSCAN clustering, Gemma 4 local inference via Ollama, pgvector + ChEMBL + ClinicalTrials.gov integrations. Built solo in 10 days for the Kaggle × Google DeepMind hackathon.
+- **[Serendipia](https://github.com/RajaT1910/Serendipia)**: Agentic RAG pipeline for drug repurposing. Semantic search over 1.1M FDA adverse event records, K-Means + DBSCAN clustering, Gemma 4 local inference via Ollama, pgvector + ChEMBL + ClinicalTrials.gov integrations. Built solo for the Kaggle × Google DeepMind hackathon.
 
 ---
 
